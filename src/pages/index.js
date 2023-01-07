@@ -4,15 +4,6 @@
 /* eslint-disable max-len */
 /* eslint-disable require-jsdoc */
 
-import { gsap } from 'gsap'
-import { ScrollTrigger } from 'gsap/ScrollTrigger'
-import $ from 'jquery'
-import SplitType from 'split-type'
-import Swiper from 'swiper'
-
-import 'swiper/css'
-import { initNavbar } from '../components/navbar'
-import { initSmoothScroll } from '../components/smooth'
 import initMobile from './indexMobile'
 
 initSmoothScroll()
