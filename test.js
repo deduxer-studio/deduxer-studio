@@ -1,2 +1,2 @@
-alert('Loaded test.js');
-console.log('Loaded test.js');
+alert('Testing test.js');
+console.log('Testing test.js');
